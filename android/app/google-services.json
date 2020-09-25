@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "923582425067",
+    "firebase_url": "https://food-order-40472.firebaseio.com",
+    "project_id": "food-order-40472",
+    "storage_bucket": "food-order-40472.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:923582425067:android:124396680b59ddb80b9bae",
+        "android_client_info": {
+          "package_name": "com.kaungsanhein.food_order"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "923582425067-ubrqpi5579113shdo8hjn8q6pir8nnj6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCx-znwJgpGUIp0t25XGjy5uAWjwjIUm-Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "923582425067-ubrqpi5579113shdo8hjn8q6pir8nnj6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
